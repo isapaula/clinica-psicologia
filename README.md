@@ -29,7 +29,7 @@
  
  <br> 
  <h2>DashBoard do psicólogo para Acompanhar os pacientes </h2>
- <img src="https://user-images.githubusercontent.com/39596008/187743472-fc5b37af-afd6-475a-857d-161a3298595f.png" alt="">
+ <img src="https://user-images.githubusercontent.com/39596008/187744629-0ffdd176-9b97-4c6a-91ee-49bf5427b143.png" alt="">
  
  
  
