@@ -24,7 +24,14 @@
  
  <br> 
  <br> 
+ <h2>Home Do Projeto</h2>
  <img src="https://user-images.githubusercontent.com/39596008/187743472-fc5b37af-afd6-475a-857d-161a3298595f.png" alt="">
+ 
+ <br> 
+ <h2>DashBoard do psicólogo para Acompanhar os pacientes </h2>
+ <img src="https://user-images.githubusercontent.com/39596008/187743472-fc5b37af-afd6-475a-857d-161a3298595f.png" alt="">
+ 
+ 
  
 
  
