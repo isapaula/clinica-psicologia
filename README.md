@@ -22,6 +22,10 @@
  - Notificações e avisos enviados para paciente por meio do email; 
  - Paciente pode fazer troca de psicólogo e escolher outro disponível;
  
+ <br> 
+ <br> 
+ <img src="https://user-images.githubusercontent.com/39596008/187743472-fc5b37af-afd6-475a-857d-161a3298595f.png" alt="">
+ 
 
  
 
